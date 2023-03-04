@@ -18,3 +18,4 @@
 ||advertising.apple.com^
 ||tr.iadsdk.apple.com^
 ||smetrics.samsung.com^
+||##.x1kyqaxf^
